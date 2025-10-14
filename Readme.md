@@ -1,7 +1,3 @@
-# BriarRose VM Development
+# Experimental pre-configured games for Winlator
 
-This is a repository for experimental builds of the BriarRose Virtual Machine and pre-configured games.
-
-The stable BRVM releases can be found here: https://github.com/piman-dev/BRVM/releases/
-
-The stable pre-configured games can be found here: https://github.com/piman-dev/BRVM-PreconfiguredGames/releases/
+This is a repository for experimental builds of pre-configured games, designed for testing on Winlator, GameFusion, MiceWine or similar software.
